@@ -1,1 +1,1 @@
-THIS IS A README FILE
+This project greets Ubuntu
